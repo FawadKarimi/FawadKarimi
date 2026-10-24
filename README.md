@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Mohammad Fawad Karimi — Medical AI · 3D CT · Trustworthy ML" width="880"/>
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/header.svg" alt="Mohammad Fawad Karimi — Medical AI · 3D CT · Trustworthy ML" width="880"/>
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" alt="Current focus" width="880"/>
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/now.svg" alt="Current focus" width="880"/>
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ Volumetric detection pipelines, multi-rater supervision, disagreement-aware loss
 ## Geometry of the research
 
 <p align="center">
-  <img src="./assets/volume-pipeline.svg" alt="Volumetric CT research pipeline" width="880"/>
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/volume-pipeline.svg" alt="Volumetric CT research pipeline" width="880"/>
 </p>
 
 <p align="center">
-  <img src="./assets/research-constellation.svg" alt="Project constellation" width="880"/>
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/research-constellation.svg" alt="Project constellation" width="880"/>
 </p>
 
 ## Stack

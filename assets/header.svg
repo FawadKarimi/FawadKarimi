@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -18,31 +19,22 @@
       <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect width="880" height="240" fill="url(#bg)"/>
   <circle cx="700" cy="120" r="130" fill="url(#orb)"/>
-
-  <!-- guide lines -->
   <g stroke="#1e293b" stroke-width="1">
     <line x1="0" y1="40" x2="880" y2="40"/>
     <line x1="0" y1="200" x2="880" y2="200"/>
     <line x1="520" y1="40" x2="520" y2="200"/>
     <line x1="32" y1="40" x2="32" y2="200" opacity="0.55"/>
   </g>
-
-  <!-- meta -->
   <text x="40" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b" letter-spacing="1.2">
-    <tspan fill="#22d3ee">*</tspan>  fawadkarimi · volumetric · main
+    <tspan fill="#22d3ee">*</tspan>  fawadkarimi | volumetric | main
   </text>
-  <text x="840" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b" letter-spacing="1">3D CT · LIDC-IDRI</text>
-
-  <!-- identity -->
+  <text x="840" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b" letter-spacing="1">3D CT | LIDC-IDRI</text>
   <text x="56" y="100" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#f1f5f9">Mohammad Fawad Karimi</text>
-  <text x="58" y="128" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22d3ee" letter-spacing="2.8">MEDICAL AI · 3D CT · TRUSTWORTHY ML</text>
-  <text x="58" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#94a3b8">lung nodules · multi-rater labels · uncertainty · explainability</text>
-  <text x="58" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b">M.AI · Universitas Syiah Kuala · KNB Scholar</text>
-
-  <!-- isometric CT volume (right) -->
+  <text x="58" y="128" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22d3ee" letter-spacing="2.8">MEDICAL AI | 3D CT | TRUSTWORTHY ML</text>
+  <text x="58" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#94a3b8">lung nodules | multi-rater labels | uncertainty | explainability</text>
+  <text x="58" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b">M.AI | Universitas Syiah Kuala | KNB Scholar</text>
   <g transform="translate(610, 48)">
     <polygon points="90,18 150,48 90,78 30,48" fill="url(#sliceFill)" stroke="#334155" stroke-width="1" opacity="0.4"/>
     <polygon points="90,34 150,64 90,94 30,64" fill="url(#sliceFill)" stroke="#475569" stroke-width="1" opacity="0.5"/>
@@ -63,8 +55,6 @@
     <text x="158" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#64748b">X</text>
     <text x="8" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#64748b">Y</text>
   </g>
-
-  <!-- pipeline chips -->
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
     <rect x="560" y="208" width="52" height="16" rx="3" fill="#0f172a" stroke="#1e293b"/>
     <text x="586" y="219" text-anchor="middle" fill="#94a3b8">CT vol</text>
@@ -78,8 +68,6 @@
     <rect x="770" y="208" width="70" height="16" rx="3" fill="#0f172a" stroke="#0e7490"/>
     <text x="805" y="219" text-anchor="middle" fill="#a5f3fc">calibrate</text>
   </g>
-
-  <!-- scanline -->
   <rect x="520" y="40" width="360" height="2" fill="#22d3ee" opacity="0.2">
     <animate attributeName="y" values="40;198;40" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.05;0.35;0.05" dur="8s" repeatCount="indefinite"/>

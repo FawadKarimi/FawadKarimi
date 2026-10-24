@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200">
   <defs>
     <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
@@ -6,8 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="880" height="200" rx="8" fill="url(#cbg)" stroke="#1e293b"/>
-  <text x="28" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b" letter-spacing="1.5">PROJECT CONSTELLATION · SHARED QUESTION OF TRUST</text>
-
+  <text x="28" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b" letter-spacing="1.5">PROJECT CONSTELLATION | SHARED QUESTION OF TRUST</text>
   <g stroke="#1e3a4c" stroke-width="1.2" fill="none">
     <path d="M160 110 C260 60, 320 60, 420 100"/>
     <path d="M420 100 C520 140, 580 140, 700 110"/>
@@ -15,24 +15,19 @@
     <path d="M420 100 C500 50, 620 50, 700 110"/>
     <path d="M420 100 L440 160"/>
   </g>
-
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
     <circle cx="160" cy="110" r="28" fill="#0f172a" stroke="#22d3ee" stroke-width="1.8"/>
     <text x="160" y="107" text-anchor="middle" font-size="9" fill="#e2e8f0">GLADS</text>
-    <text x="160" y="119" text-anchor="middle" font-size="8" fill="#67e8f9">2D · rates</text>
-
+    <text x="160" y="119" text-anchor="middle" font-size="8" fill="#67e8f9">2D | rates</text>
     <circle cx="420" cy="100" r="36" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
     <text x="420" y="94" text-anchor="middle" font-size="10" fill="#f1f5f9">LIDC3D</text>
     <text x="420" y="108" text-anchor="middle" font-size="8" fill="#22d3ee">3D volume</text>
-    <text x="420" y="120" text-anchor="middle" font-size="7" fill="#64748b">private · ongoing</text>
-
+    <text x="420" y="120" text-anchor="middle" font-size="7" fill="#64748b">private | ongoing</text>
     <circle cx="700" cy="110" r="28" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.8"/>
     <text x="700" y="107" text-anchor="middle" font-size="9" fill="#e2e8f0">CLEAR3D</text>
     <text x="700" y="119" text-anchor="middle" font-size="8" fill="#67e8f9">candidates</text>
-
     <circle cx="440" cy="168" r="18" fill="#0f172a" stroke="#475569" stroke-width="1.2"/>
     <text x="440" y="171" text-anchor="middle" font-size="8" fill="#94a3b8">PANC</text>
   </g>
-
-  <text x="28" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569">disagreement · patient splits · explanations · calibration — one geometry, many experiments</text>
+  <text x="28" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569">disagreement | patient splits | explanations | calibration</text>
 </svg>

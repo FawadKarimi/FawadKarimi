@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="48" viewBox="0 0 880 48" role="img" aria-label="Current focus ticker">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0b1524"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="48" fill="url(#bg5)"/>
+  <rect x="0" y="0" width="880" height="1" fill="#1e293b"/>
+  <rect x="0" y="47" width="880" height="1" fill="#1e293b"/>
+
+  <rect x="12" y="14" width="46" height="20" rx="3" fill="#0f172a" stroke="#164e63"/>
+  <text x="35" y="28" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#22d3ee" letter-spacing="1">NOW</text>
+
+  <text x="70" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#22d3ee" opacity="0.55">&gt;</text>
+
+  <text x="88" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#e2e8f0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.22;0.30;1" dur="14s" repeatCount="indefinite"/>
+    studying disagreement between radiologists  not erasing it
+  </text>
+  <text x="88" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#e2e8f0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.31;0.52;0.60;1" dur="14s" repeatCount="indefinite"/>
+    3D CT volumes ’ candidates ’ false-positive reduction ’ patient-level eval
+  </text>
+  <text x="88" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#e2e8f0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60;0.61;0.82;0.90;1" dur="14s" repeatCount="indefinite"/>
+    calibration, uncertainty, and failure cases travel with every accuracy claim
+  </text>
+  <text x="88" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#e2e8f0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.90;0.91;0.99;1" dur="14s" repeatCount="indefinite"/>
+    seeking funded PhD 2027 · medical imaging &amp; trustworthy ML
+  </text>
+
+  <rect x="854" y="16" width="10" height="16" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

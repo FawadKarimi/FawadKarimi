@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/now.png" alt="Current focus" width="880"/>
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/now.png" alt="NOW - volumetric lung-nodule detection | reader disagreement | PhD 2027" width="880"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FawadKarimi/FawadKarimi/main/assets/focus.png" alt="Current focus - 3D CT lung-nodule analysis" width="880"/>
 </p>
 
 <p align="center">
